@@ -1,0 +1,8 @@
+git remote add 변수 변수값
+git commit -m ""
+git push -u 주소 브랜치
+git add .
+git init
+git merge 브랜치 --squash
+git rebase, switch , git merge this.branch
+git log --all --oneline
