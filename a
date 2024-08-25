@@ -6,3 +6,5 @@ git init
 git merge 브랜치 --squash
 git rebase, switch , git merge this.branch
 git log --all --oneline
+
+================================================================
